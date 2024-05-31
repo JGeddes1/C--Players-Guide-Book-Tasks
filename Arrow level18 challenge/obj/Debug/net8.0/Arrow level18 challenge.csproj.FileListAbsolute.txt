@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\bin\Debug\net8.0\Arrow level18 challenge.exe
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\bin\Debug\net8.0\Arrow level18 challenge.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\bin\Debug\net8.0\Arrow level18 challenge.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\bin\Debug\net8.0\Arrow level18 challenge.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\bin\Debug\net8.0\Arrow level18 challenge.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\refint\Arrow level18 challenge.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\Arrow level18 challenge.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Arrow level18 challenge\obj\Debug\net8.0\ref\Arrow level18 challenge.dll

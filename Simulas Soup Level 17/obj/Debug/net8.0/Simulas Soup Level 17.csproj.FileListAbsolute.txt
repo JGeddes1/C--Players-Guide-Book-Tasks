@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\bin\Debug\net8.0\Simulas Soup Level 17.exe
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\bin\Debug\net8.0\Simulas Soup Level 17.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\bin\Debug\net8.0\Simulas Soup Level 17.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\bin\Debug\net8.0\Simulas Soup Level 17.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\bin\Debug\net8.0\Simulas Soup Level 17.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\refint\Simulas Soup Level 17.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\Simulas Soup Level 17.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas Soup Level 17\obj\Debug\net8.0\ref\Simulas Soup Level 17.dll

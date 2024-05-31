@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

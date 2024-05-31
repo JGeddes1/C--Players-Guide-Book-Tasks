@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\bin\Debug\net8.0\Hunting the manticore.exe
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\bin\Debug\net8.0\Hunting the manticore.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\bin\Debug\net8.0\Hunting the manticore.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\bin\Debug\net8.0\Hunting the manticore.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\bin\Debug\net8.0\Hunting the manticore.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\refint\Hunting the manticore.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\Hunting the manticore.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Hunting the manticore\obj\Debug\net8.0\ref\Hunting the manticore.dll

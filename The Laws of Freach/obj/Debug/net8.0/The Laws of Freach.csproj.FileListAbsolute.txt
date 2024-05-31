@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\bin\Debug\net8.0\The Laws of Freach.exe
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\bin\Debug\net8.0\The Laws of Freach.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\bin\Debug\net8.0\The Laws of Freach.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\bin\Debug\net8.0\The Laws of Freach.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\bin\Debug\net8.0\The Laws of Freach.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\refint\The Laws of Freach.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\The Laws of Freach.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Laws of Freach\obj\Debug\net8.0\ref\The Laws of Freach.dll

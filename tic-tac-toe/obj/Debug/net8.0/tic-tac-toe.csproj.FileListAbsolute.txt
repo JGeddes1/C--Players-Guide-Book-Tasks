@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.exe
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.dll
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.dll
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\refint\tic-tac-toe.dll
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\tic-tac-toe\obj\Debug\net8.0\ref\tic-tac-toe.dll

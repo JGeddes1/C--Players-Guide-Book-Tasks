@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\bin\Debug\net8.0\Simulas test.exe
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\bin\Debug\net8.0\Simulas test.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\bin\Debug\net8.0\Simulas test.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\bin\Debug\net8.0\Simulas test.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\bin\Debug\net8.0\Simulas test.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\refint\Simulas test.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\Simulas test.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Simulas test\obj\Debug\net8.0\ref\Simulas test.dll

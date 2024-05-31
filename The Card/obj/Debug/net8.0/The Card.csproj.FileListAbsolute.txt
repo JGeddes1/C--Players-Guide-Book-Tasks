@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\bin\Debug\net8.0\The Card.exe
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\bin\Debug\net8.0\The Card.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\bin\Debug\net8.0\The Card.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\bin\Debug\net8.0\The Card.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\bin\Debug\net8.0\The Card.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\refint\The Card.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\The Card.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Card\obj\Debug\net8.0\ref\The Card.dll

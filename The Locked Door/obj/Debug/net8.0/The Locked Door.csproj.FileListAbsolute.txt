@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\bin\Debug\net8.0\The Locked Door.exe
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\bin\Debug\net8.0\The Locked Door.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\bin\Debug\net8.0\The Locked Door.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\bin\Debug\net8.0\The Locked Door.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\bin\Debug\net8.0\The Locked Door.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\refint\The Locked Door.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\The Locked Door.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Locked Door\obj\Debug\net8.0\ref\The Locked Door.dll

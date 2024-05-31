@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hunting the manticore/1.0.0": {
+        "runtime": {
+          "Hunting the manticore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hunting the manticore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

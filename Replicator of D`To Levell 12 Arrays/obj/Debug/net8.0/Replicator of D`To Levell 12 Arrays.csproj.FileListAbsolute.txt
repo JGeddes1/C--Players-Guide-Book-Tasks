@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\bin\Debug\net8.0\Replicator of D`To Levell 12 Arrays.exe
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\bin\Debug\net8.0\Replicator of D`To Levell 12 Arrays.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\bin\Debug\net8.0\Replicator of D`To Levell 12 Arrays.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\bin\Debug\net8.0\Replicator of D`To Levell 12 Arrays.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\bin\Debug\net8.0\Replicator of D`To Levell 12 Arrays.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\refint\Replicator of D`To Levell 12 Arrays.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\Replicator of D`To Levell 12 Arrays.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Replicator of D`To Levell 12 Arrays\obj\Debug\net8.0\ref\Replicator of D`To Levell 12 Arrays.dll

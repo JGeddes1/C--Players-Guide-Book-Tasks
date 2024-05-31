@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\bin\Debug\net8.0\GuessGame.exe
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\bin\Debug\net8.0\GuessGame.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\bin\Debug\net8.0\GuessGame.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\bin\Debug\net8.0\GuessGame.dll
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\bin\Debug\net8.0\GuessGame.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.dll
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\refint\GuessGame.dll
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\GuessGame.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\GuessGame\obj\Debug\net8.0\ref\GuessGame.dll

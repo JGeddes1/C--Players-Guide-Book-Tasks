@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\bin\Debug\net8.0\The Point (level24).exe
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\bin\Debug\net8.0\The Point (level24).deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\bin\Debug\net8.0\The Point (level24).runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\bin\Debug\net8.0\The Point (level24).dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\bin\Debug\net8.0\The Point (level24).pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\refint\The Point (level24).dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\The Point (level24).genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Point (level24)\obj\Debug\net8.0\ref\The Point (level24).dll

@@ -1,0 +1,14 @@
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\bin\Debug\net8.0\The Color.exe
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\bin\Debug\net8.0\The Color.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\bin\Debug\net8.0\The Color.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\bin\Debug\net8.0\The Color.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\bin\Debug\net8.0\The Color.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\refint\The Color.dll
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\The Color.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\The Color\obj\Debug\net8.0\ref\The Color.dll
