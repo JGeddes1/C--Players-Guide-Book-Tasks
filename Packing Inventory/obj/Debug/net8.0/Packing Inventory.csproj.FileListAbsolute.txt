@@ -1,0 +1,15 @@
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.AssemblyInfoInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.AssemblyInfo.cs
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.csproj.CoreCompileInputs.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.sourcelink.json
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\bin\Debug\net8.0\Packing Inventory.exe
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\bin\Debug\net8.0\Packing Inventory.deps.json
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\bin\Debug\net8.0\Packing Inventory.runtimeconfig.json
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\bin\Debug\net8.0\Packing Inventory.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\bin\Debug\net8.0\Packing Inventory.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\refint\Packing Inventory.dll
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.pdb
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\Packing Inventory.genruntimeconfig.cache
+F:\Coding projects 2024\csharp\Book_Tasks\Packing Inventory\obj\Debug\net8.0\ref\Packing Inventory.dll
